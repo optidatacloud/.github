@@ -2,7 +2,7 @@
 
 # Boas-vindas!
 
-Essa é a organização da [Optidata Cloud](https://www.optidatacloud.com), cloud solutions de pessoas para pessoas.
+Essa é a organização da [Optidata](https://www.optidatacloud.com), Cloud Solutions de pessoas para pessoas.
 
 Nossa história começou há mais de 10 anos atrás, quando sentimos pulsar a vontade de mudar o mundo através da cloud. De lá para cá, muita coisa mudou, aprendemos, melhoramos, evoluímos e hoje temos orgulho de quem nos tornamos e para onde estamos indo. 
 
@@ -26,4 +26,4 @@ Links importantes:
 
 ## 🤝 Trabalhe conosco
 
-A Optidata Cloud está sempre à procura de pessoas talentosas e motivadas que querem trabalhar com tecnologia e inovação no ambiente cloud. Gosta de desenvolvimento web, infra-estrutura como serviço, segurança da informação, núvem, virtualização, redes e datacenters? [Faça parte do nosso time!](https://www.optidatacloud.com/trabalhe-conosco).
+A Optidata Cloud está sempre à procura de pessoas talentosas e motivadas que querem trabalhar com tecnologia e inovação no ambiente cloud. Gosta de desenvolvimento web, infra-estrutura como serviço, segurança da informação, núvem, virtualização, redes e datacenters? [Faça parte do nosso time!](https://www.optidatacloud.com/trabalhe-conosco)
