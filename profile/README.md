@@ -1,4 +1,4 @@
-![](.github/optidata-org-readme.png)
+![](.github/optidata-org-readme-logo.png)
 
 # Boas-vindas!
 
