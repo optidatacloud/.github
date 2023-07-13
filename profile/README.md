@@ -13,7 +13,6 @@ Cada dia, temos mais certeza que o nosso propósito é fazer a diferença na vid
 Nossas soluções:
 
 * [Servidor na nuvem (Iaas)](https://www.optidatacloud.com/server-premium/)
-* [Servidor de arquivos na nuvem – Amplidrive](https://www.optidatacloud.com/file-server-cloud/)
 * [E-mail corporativo dedicado](https://www.optidatacloud.com/corporate-mail/)
 * [Segurança da informação](https://www.optidatacloud.com/cyber-security/)
 * [Nuvem Híbrida](https://www.optidatacloud.com/nuvem-hibrida/)
