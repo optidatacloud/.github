@@ -12,16 +12,16 @@ Cada dia, temos mais certeza que o nosso propósito é fazer a diferença na vid
 
 Nossas soluções:
 
-* [Servidor na nuvem (Iaas)](https://www.optidata.cloud.com/solution/)
-* [E-mail corporativo dedicado](https://www.optidata.cloud.com/solution/)
-* [Segurança da informação](https://www.optidata.cloud.com/solution/)
-* [Nuvem Híbrida](https://www.optidata.cloud.com/solution/)
+* [Servidor na nuvem (Iaas)](https://www.optidata.cloud/solution/)
+* [E-mail corporativo dedicado](https://www.optidata.cloud/solution/)
+* [Segurança da informação](https://www.optidata.cloud/solution/)
+* [Nuvem Híbrida](https://www.optidata.cloud/solution/)
 
 Links importantes:
 
 * [Site](https://www.optidata.cloud)
 * [Blog](https://www.optidata.cloud/content/)
-* [Contato](https://www.optidata,cloud/contact/)
+* [Contato](https://www.optidata.cloud/contact/)
 
 ## 🤝 Trabalhe conosco
 
