@@ -2,7 +2,7 @@
 
 # Boas-vindas!
 
-Essa é a organização da [Optidata](https://www.optidatacloud.com), Cloud Solutions de pessoas para pessoas.
+Essa é a organização da [Optidata](https://www.optidata.cloud), Cloud Solutions de pessoas para pessoas.
 
 Nossa história começou há mais de 10 anos atrás, quando sentimos pulsar a vontade de mudar o mundo através da cloud. De lá para cá, muita coisa mudou, aprendemos, melhoramos, evoluímos e hoje temos orgulho de quem nos tornamos e para onde estamos indo. 
 
@@ -12,17 +12,17 @@ Cada dia, temos mais certeza que o nosso propósito é fazer a diferença na vid
 
 Nossas soluções:
 
-* [Servidor na nuvem (Iaas)](https://www.optidatacloud.com/server-premium/)
-* [E-mail corporativo dedicado](https://www.optidatacloud.com/corporate-mail/)
-* [Segurança da informação](https://www.optidatacloud.com/cyber-security/)
-* [Nuvem Híbrida](https://www.optidatacloud.com/nuvem-hibrida/)
+* [Servidor na nuvem (Iaas)](https://www.optidata.cloud.com/solution/)
+* [E-mail corporativo dedicado](https://www.optidata.cloud.com/solution/)
+* [Segurança da informação](https://www.optidata.cloud.com/solution/)
+* [Nuvem Híbrida](https://www.optidata.cloud.com/solution/)
 
 Links importantes:
 
-* [Site](https://www.optidatacloud.com)
-* [Blog](https://www.optidatacloud.com/blog/)
-* [Contato](https://www.optidatacloud.com/contato/)
+* [Site](https://www.optidata.cloud)
+* [Blog](https://www.optidata.cloud/content/)
+* [Contato](https://www.optidata,cloud/contact/)
 
 ## 🤝 Trabalhe conosco
 
-A Optidata Cloud está sempre à procura de pessoas talentosas e motivadas que querem trabalhar com tecnologia e inovação no ambiente cloud. Gosta de desenvolvimento web, infra-estrutura como serviço, segurança da informação, núvem, virtualização, redes e datacenters? [Faça parte do nosso time!](https://www.optidatacloud.com/trabalhe-conosco)
+A Optidata Cloud está sempre à procura de pessoas talentosas e motivadas que querem trabalhar com tecnologia e inovação no ambiente cloud. Gosta de desenvolvimento web, infra-estrutura como serviço, segurança da informação, núvem, virtualização, redes e datacenters? [Faça parte do nosso time!](https://www.optidata.cloud/work-with-us/)
