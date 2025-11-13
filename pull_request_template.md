@@ -27,6 +27,8 @@
 
 ---
 
+- Fix: #xxx
+
 <!--
     Se o PR contém marcações especiais de feature flags, envs e migrations descomente e ajuste o bloco abaixo.
     Deixar as marcações em um bloco ``` e ``` facilitam para copiar e colar o conteúdo.
@@ -39,5 +41,3 @@
 - MI: 
 ```
 -->
-
-- Fix: #xxx 
