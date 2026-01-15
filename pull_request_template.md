@@ -30,6 +30,14 @@
 - Fix: #xxx
 
 <!--
-    Se o PR contém marcações especiais de feature flags, envs e migrations descomente e ajuste o bloco abaixo.
-    Deixar as marcações em um bloco ``` e ``` facilitam para copiar e colar o conteúdo.
+    Se o PR contém marcações especiais de feature flags (código `FF`), envs (`ENV`) e migrations (`MI`) coloque elas abaixo dentro de um
+    bloco ``` e ```. Exemplo (usando `` para não quebrar layout, e `_` no código para evitar triggerar a AI no template):
+
+    ``
+      - F_F: feature_flag_name=value
+      - F_F: feature_another_flag_name=value
+      - E_NV: ENV_VARIABLE_NAME=value
+      - E_NV: ENV_ANOTHER_VARIABLE_NAME=value
+      - M_I: description of the migration
+    ``
 -->
