@@ -1,6 +1,6 @@
 <!-- IMPORTANT: PRs *MUST* be written in Brazilian Portuguese, unless otherwise specified. -->
 
-<!-- Se esse PR depende de algum outro, ou de outra issue, descomente o bloco abaixo. -->
+<!-- Se esse PR depende de algum outro, ou de outra issue, descomente o bloco abaixo (o `YYY` é um exemplo de número de outra issue). -->
 
 <!--
 > [!IMPORTANT]
@@ -21,7 +21,10 @@
 ### 🧪 Como testar
 
 <!--
-    Coloque nessa seção o passo a passo de como testar esse PR de forma manual.
+    Coloque nessa seção o passo a passo de como testar esse PR de forma manual, tal qual um usuário faria com o browser.
+    Você pode complementar essas informações com dicas de logs, etc que podem ser monitorados.
+    Se a feature não tem UI (não será usada diretamente pelo browser), informe quais passos/comandos devem ser feitos para o teste.
+    Assuma que a aplicação já está disponível para uso em stage, então não precisa de instruções de deploy, build, etc.
     Se houver testes unitários, mencione eles aqui também.
 -->
 
@@ -30,14 +33,10 @@
 - Fix: #xxx
 
 <!--
-    Se o PR contém marcações especiais de feature flags (código `FF`), envs (`ENV`) e migrations (`MI`) coloque elas abaixo dentro de um
-    bloco ``` e ```. Exemplo (usando `` para não quebrar layout, e `_` no código para evitar triggerar a AI no template):
+    Se o PR contém marcações especiais de feature flags, envs e migrations, mencione eles como:
 
-    ``
-      - F_F: feature_flag_name=value
-      - F_F: feature_another_flag_name=value
-      - E_NV: ENV_VARIABLE_NAME=value
-      - E_NV: ENV_ANOTHER_VARIABLE_NAME=value
-      - M_I: description of the migration
-    ``
+    - KEY: name=value
+    
+    Onde KEY pode ser FF (para feature flags), ENV (para envs) e MI (para migrations). Marcadores podem se repetir (várias FF, ENV, MI, etc).
+    Se essas marcações existirem, coloque elas abaixo dentro de um bloco ``` e ```.
 -->
